@@ -1,2 +1,3 @@
-# consul-net
-.NET client for Consul
+# .NET Client for Consul
+
+What it says on the tin.
